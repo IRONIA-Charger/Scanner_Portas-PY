@@ -1,5 +1,7 @@
 # Scanner_Portas-PY
 
+Script funcional feito em Python para identificação de portas TCP e coleta de banners de serviço
+
 # Bibliotecas utilizadas: 
 1. Socket
 2. Datatime
